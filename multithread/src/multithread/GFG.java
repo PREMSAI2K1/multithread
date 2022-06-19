@@ -1,6 +1,7 @@
 package multithread;
 class ThreadJoining extends Thread
 {
+	//new commit added
     @Override
     public void run()
     {
